@@ -38,4 +38,4 @@ Após executar em um ambiente python, coloque o cpf desejado e terás a informa�
 Boa pergunta, você deve se registrar na plataforma [Invertexto](https://api.invertexto.com/register). Depois **crie seu token**, em sequida é gerado automaticamente um. Após isto, substitua no código a cima na variável **req** especificamente na url em, **SEUTOKEN** pelo seu token criado.
 
 
-[Tabnews]([https://github.com/Jetrom17/Request](https://www.tabnews.com.br/Jetrom/python-validador-de-cpf)).
+[Tabnews](https://github.com/Jetrom17/Request](https://www.tabnews.com.br/Jetrom/python-validador-de-cpf).
